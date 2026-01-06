@@ -1,0 +1,3 @@
+[submodule "theme/tailbliss"]
+	path = theme/tailbliss
+	url = https://github.com/nusserstudios/tailbliss
